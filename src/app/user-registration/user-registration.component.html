@@ -1,0 +1,18 @@
+<form #ref="ngForm" (ngSubmit)="addUserData()">
+    <div>
+      <label for="un">Username</label>
+      <input type="text" name="username" id="un" class="form-control" [(ngModel)]=userObj.username>
+    </div>
+
+    <div>
+      <label for="pw">Date of birth</label>
+      <input type="date" name="dob" id="pw" class="form-control" [(ngModel)]=userObj.dob>
+    </div>
+
+    <div>
+      <label for="em">E-Mail</label>
+      <input type="email" name="email" id="em" class="form-control" [(ngModel)]=userObj.email>
+    </div>
+
+    <button type="submit" class="btn d-block mx-auto m-3">Register</button>
+  </form>
