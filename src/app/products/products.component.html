@@ -1,5 +1,18 @@
-<div class="row row-cols-sm-2 row-cols-md-3 row-cols-lg-4">
-    <div class="col" *ngFor="let p of products">
-        <app-product-details></app-product-details>
-    </div>
+
+<div class="flex-container p-5">
+  <button class="nav-item nav-link" routerLink="men" routerLinkActive="active" (click)="LoadComponent(this.x);">Men</button>
+  <router-outlet *ngIf="load"></router-outlet>
+  <button class="nav-item nav-link" routerLink="women" routerLinkActive="active"(click)="LoadComponent(this.x);">Women</button>
+  <router-outlet *ngIf="load"></router-outlet>
+  <button class="nav-item nav-link" routerLink="unisex" routerLinkActive="active"(click)="LoadComponent(this.x);">Unisex</button>
+  <router-outlet *ngIf="load"></router-outlet>
 </div>
+
+<div *ngIf="LoadComponent(this.x)" class="row row-2 row-cols-sm-2 row-cols-md-3 row-cols-lg-4">
+  <div class="col" *ngFor="let prObj of myResults">
+      <app-product-details [ProductObj]=prObj></app-product-details>
+  </div>
+</div>
+
+  
+

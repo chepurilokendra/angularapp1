@@ -1,0 +1,144 @@
+{
+      "hall_of_fame":[
+      {
+         "id":1,
+         "email":"tom.cruise@example.com",
+         "name":"Tom Cruise",
+         "profilePic":"https://c4.wallpaperflare.com/wallpaper/692/291/745/best-actor-tom-cruise-face-photo-wallpaper-preview.jpg",
+         "address":{
+            "street":"Kulas Light",
+            "suite":"Apt. 556",
+            "city":"Gwenborough",
+            "zipcode":"92998-3874"
+         },
+         "profession":"actor",
+         "mobileno":"1-770-736-8031 x56442"
+      },
+      {
+         "id":2,
+         "email":"rdj.jr@example.com",
+         "name":"Robert Downey Jr.",
+         "profilePic":"https://c4.wallpaperflare.com/wallpaper/482/418/496/portrait-art-robert-downey-jr-wallpaper-preview.jpg",
+         "address":{
+            "street":"Victor Plains",
+            "suite":"Suite 879",
+            "city":"Wisokyburgh",
+            "zipcode":"90566-7771"
+         },
+         "profession":"genius-billionaire-playboy-philanthropist",
+         "mobileno":"010-692-6593 x09125"
+      },
+      {
+         "id":3,
+         "email":"chris.evans@example.com",
+         "name":"Chris Evans",
+         "profilePic":"https://c4.wallpaperflare.com/wallpaper/317/549/226/background-portrait-actor-beard-wallpaper-preview.jpg",
+         "address":{
+            "street":"Douglas Extension",
+            "suite":"Suite 847",
+            "city":"McKenziehaven",
+            "zipcode":"59590-4157"
+         },
+         "profession":"actor",
+         "mobileno":"1-463-123-4447"
+      },
+      {
+         "id":4,
+         "email":"chris.hemsworth@example.com",
+         "name":"Chris Hemsworth",
+         "profilePic":"https://c4.wallpaperflare.com/wallpaper/462/234/415/avengers-age-of-ultron-the-avengers-thor-chris-hemsworth-wallpaper-preview.jpg",
+         "address":{
+            "street":"Hoeger Mall",
+            "suite":"Apt. 692",
+            "city":"South Elvis",
+            "zipcode":"53919-4257"
+         },
+         "profession":"actor",
+         "mobileno":"493-170-9623 x156"
+      },
+      {
+         "id":5,
+         "email":"scarlet.jo@example.com",
+         "name":"Scarlett ",
+         "profilePic":"https://c4.wallpaperflare.com/wallpaper/38/931/733/scarlett-johansson-black-widow-avengers-age-of-ultron-the-avengers-wallpaper-preview.jpg",
+         "address":{
+            "street":"Skiles Walks",
+            "suite":"Suite 351",
+            "city":"Roscoeview",
+            "zipcode":"33263"
+         },
+         "profession":"actor",
+         "mobileno":"(254)954-1289"
+      },
+      {
+         "id":6,
+         "email":"ben.batch@example.com",
+         "name":"Benedict Cumberbatch",
+         "profilePic":"https://c4.wallpaperflare.com/wallpaper/929/120/834/sherlock-holmes-benedict-cumberbatch-sherlock-tv-wallpaper-preview.jpg",
+         "address":{
+            "street":"Norberto Crossing",
+            "suite":"Apt. 950",
+            "city":"South Christy",
+            "zipcode":"23505-1337"
+         },
+         "profession":"detective",
+         "mobileno":"1-477-935-8478 x6430"
+      },
+      {
+         "id":7,
+         "email":"chris.bale@example.com",
+         "name":"Christian Bale",
+         "profilePic":"https://c4.wallpaperflare.com/wallpaper/876/930/329/christian-bale-actor-brunette-man-wallpaper-preview.jpg",
+         "address":{
+            "street":"Rex Trail",
+            "suite":"Suite 280",
+            "city":"Howemouth",
+            "zipcode":"58804-1099"
+         },
+         "profession":"actor",
+         "mobileno":"210.067.6132"
+      },
+      {
+         "id":8,
+         "email":"heath.ledger@example.com",
+         "name":"Heath Ledger",
+         "profilePic":"https://blog.hdwallsource.com/wp-content/uploads/2016/05/heath-ledger-photos-25247-25929-hd-wallpapers.jpg",
+         "address":{
+            "street":"Ellsworth Summit",
+            "suite":"Suite 729",
+            "city":"Aliyaview",
+            "zipcode":"45169"
+         },
+         "profession":"brilliant actor",
+         "mobileno":"586.493.6943 x140"
+      },
+      {
+         "id":9,
+         "email":"taylor.swift@example.com",
+         "name":"Taylor Swift",
+         "profilePic":"https://c4.wallpaperflare.com/wallpaper/437/647/684/taylor-swift-beautiful-teen-vogue-wallpaper-preview.jpg",
+         "address":{
+            "street":"Dayna Park",
+            "suite":"Suite 449",
+            "city":"Bartholomebury",
+            "zipcode":"76495-3109"
+         },
+         "profession":"singer-songwriter",
+         "mobileno":"(775)976-6794 x41206"
+      },
+      {
+         "id":10,
+         "email":"week.end@example.com",
+         "name":"Weeknd",
+         "profilePic":"https://c4.wallpaperflare.com/wallpaper/164/638/433/the-weeknd-wallpaper-preview.jpg",
+         "address":{
+            "street":"Kattie Turnpike",
+            "suite":"Suite 198",
+            "city":"Lebsackbury",
+            "zipcode":"31428-2261"
+         },
+         "profession":"singer-songwriter",
+         "mobileno":"024-648-3804"
+      }
+      ]
+  }

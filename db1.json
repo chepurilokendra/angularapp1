@@ -1,0 +1,34 @@
+{
+  "mobiles": [
+    {
+      "productTitle": "mobile-1",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore amet dolor iusto",
+      "productImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTX4W-LDWv2q2p_S6YslNuFSqNqJC1ggIcuozx03qwkVdacNvalSpb5URnpJ3s-kycKDaNZwc&usqp=CAc"
+    },
+    {
+      "productTitle": "mobile-2",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore amet dolor iusto",
+      "productImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOEdhNO6H5MXRpBLikwkhCxYIeAL8Do7YOk1ARF3IQCOp98itZtPit5bMJMPk&usqp=CAc"
+    },
+    {
+      "productTitle": "mobile-3",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore amet dolor iusto",
+      "productImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ49BrZcD9ji49gDtKUHpO7a1Sv0bGyk0zLCI_ydel_tH1HqKf7KYt9G0XbGGzPWlVfq9jF8GY&usqp=CAc"
+    },
+    {
+      "productTitle": "Product-4",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore amet dolor iusto",
+      "productImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR8SmCr2fSwhOf_tM6sfX0X7xTdddYLLMcNqhQL1E90NQe9-gAhZWUlMHRuQSuLYqXMLmRbzcn&usqp=CAc"
+    },
+    {
+      "productTitle": "Product-5",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore amet dolor iusto",
+      "productImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiAX-1ItGGbWa3RYtehaO1g-dVu0iG4MusoTVv4C1g7kG9a7r5xazEELHhskbzIsgHLVUTKf1X&usqp=CAc"
+    },
+    {
+      "productTitle": "Product-6",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore amet dolor iusto",
+      "productImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHGmqLLYufGFB4Kex0CFu3TPVQbKNXIFHX73poRm_MoGXUozhX1D4SXf2-6cnh6hyddrnbhYIe&usqp=CAc"
+    }
+  ]
+}

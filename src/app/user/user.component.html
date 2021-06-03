@@ -1,0 +1,14 @@
+<table class="table text-center text-dark m-3" style="font-weight: 600;font-size:20px">
+        <!-- table headings -->
+        <thead style="background-color: white;">
+        <th>ID</th>
+        <th>Email-ID</th>
+        </thead>
+        <!-- table rows -->
+        <tbody>
+            <tr *ngFor="let userObj of myUsers">
+                <td><button class="btn btn-primary" (click)="onSelected(userObj.id)" >{{userObj.id}}</button></td>
+                <td>{{userObj.email}}</td>
+            </tr>
+        </tbody>
+    </table>
